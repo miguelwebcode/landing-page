@@ -1,0 +1,30 @@
+.jumbo-div {
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-image: url('../images/blue-mountains.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.me_image {
+    height: 250px;
+    border-radius: 50%;
+}
+
+.text-jumbotron {
+    color: white;
+}
+
+.contact-me {
+    background-image: url('../images/bubbles.jpg');
+    background-size: cover;
+    color: white;
+    font-weight: bold;
+}
+
+.project-image {
+    height: 300px;
+
+}
